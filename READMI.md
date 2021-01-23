@@ -19,4 +19,4 @@ ___
   * "slick-carousel",
   * "wow.js"
   <br>
-  [Просмотреть]()
+  [Просмотреть](https://rizvandev.github.io/Surf-Spots.com/)
