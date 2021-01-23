@@ -19,5 +19,5 @@ ___
   * "slick-carousel",
   * "wow.js"
   <br>
-  ###### анимация "wow" на смартфонах отключена
+ ###### анимация "wow" на смартфонах отключена
 [Просмотреть](https://rizvandev.github.io/Surf-Spots.com/)
