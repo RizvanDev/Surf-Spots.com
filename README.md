@@ -20,4 +20,6 @@
   * "wow.js"
   <br>
  ###### анимация "wow" на смартфонах отключена
-[Просмотреть](https://rizvandev.github.io/Surf-Spots.com/)
+ <br>
+ 
+[![](https://img.shields.io/badge/-перейти_на_страницу-3f3f3f?style=for-the-badge&logo=github)](https://rizvandev.github.io/Surf-Spots.com/)
